@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @bigEyee
 - 👀 I’m interested in python
 - 🌱 I’m currently learning.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 bigEyee/bigEyee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
